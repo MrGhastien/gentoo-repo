@@ -1,0 +1,5 @@
+#+TITLE: Personal Gentoo Repository
+
+Repository for some epic ebuild files
+
+Je suis chokbar.
