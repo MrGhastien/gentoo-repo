@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person" proxied="yes">
+		<email>bastien.morino@free.fr</email>
+		<name>Bastien Morino</name>
+	</maintainer>
+	<longdescription>
+        Inter is a workhorse of a typeface carefully crafted and designed
+        for a wide range of applications, from detailed user interfaces
+        to marketing and signage.
+    </longdescription>
+	<stabilize-allarches/>
+	<upstream>
+		<remote-id type="github">rsms/inter</remote-id>
+	</upstream>
+</pkgmetadata>
