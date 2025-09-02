@@ -22,7 +22,7 @@ S="${WORKDIR}/${MY_DIR}"
 DOCS=( README.md OFL.txt )
 
 src_install() {
-	use otf && { FONT_S="${S}/fonts//otf"; FONT_SUFFIX="otf"; }
+	use otf && { FONT_S="${S}/fonts/otf"; FONT_SUFFIX="otf"; }
 	use ttf && { FONT_S="${S}/fonts/ttf"; FONT_SUFFIX="ttf"; }
 
 	font_src_install
